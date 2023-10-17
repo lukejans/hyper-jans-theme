@@ -1,12 +1,10 @@
 ![Hyper jans theme screenshot](screenshot.png)
+_displaying with [spaceship prompt](https://spaceship-prompt.sh/)_
 
-<h1 align="center"><b>hyper-jans-theme</b></h1>
+<h1 align="center"><b>Hyper Jans Theme</b></h1>
 
-<a href="https://www.linkedin.com/in/luke-janssen-96592a245/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="https://twitter.com/lukejanss" target="_blank">
-<img alt="X (Twitter)" src="https://img.shields.io/badge/@lukejanss-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" />
+<a href="https://www.npmjs.com/~lukejans" target="_blank">
+<img alt="npm (node package manager)" src="https://img.shields.io/badge/v0.1.0-%2312100E.svg?&style=for-the-badge&logo=NPM&logoColor=" />
 </a>
 <a href="https://github.com/lukejans" target="_blank">
 <img alt="GitHub" src="https://img.shields.io/badge/lukejans-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
