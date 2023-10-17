@@ -35,8 +35,6 @@ Save changes made to `~./hyper.js`, reload your terminal and happy coding!
 ## My `~/.hyper.js` Configuration
 
 ```js
-'use strict';
-
 module.exports = {
   config: {
     fontSize: 13,
@@ -54,4 +52,4 @@ module.exports = {
 };
 ```
 
-Here I use [SF Mono](https://developer.apple.com/fonts/) for my font with [Fira Code](https://fonts.google.com/specimen/Fira+Code) as a fallback for powerline icons ``. I also added some additional padding to accommodate for the [hyperline plugin](https://github.com/Hyperline/hyperline) I use.
+Here I use [SF Mono](https://developer.apple.com/fonts/) for my font with [Fira Code](https://fonts.google.com/specimen/Fira+Code) as a fallback for powerline icons. I also added some additional padding to accommodate for the [hyperline plugin](https://github.com/Hyperline/hyperline) I use.
