@@ -1,12 +1,16 @@
 {
   "name": "hyper-jans-theme",
   "displayName": "Hyper Jans Theme",
+  "version": "1.0.0",
   "description": "Just a colorful dark theme built for Vercel's terminal Hyper.js.",
-  "version": "0.1.0",
-  "publisher": "ahmadawais",
+  "main": "index.js",
+  "publisher": "lukejans",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukejans/hyper-jans-theme"
+    "url": "git+https://github.com/lukejans/hyper-jans-theme.git"
   },
   "author": "Luke Janssen",
   "license": "MIT",
@@ -26,7 +30,9 @@
     "ui",
     "syntax"
   ],
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {}
+  "bugs": {
+    "url": "https://github.com/lukejans/hyper-jans-theme/issues"
+  },
+  "homepage": "https://github.com/lukejans/hyper-jans-theme#readme",
+  "devDependencies": {}
 }
