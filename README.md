@@ -59,7 +59,7 @@ module.exports = {
     },
   },
   // a list of plugins to fetch and install from npm
-  plugins: ['hyperline', 'hyper-pane'],
+  plugins: ['hyperline', 'hyper-pane', 'hyper-jans-theme'],
 };
 ```
 
