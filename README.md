@@ -2,7 +2,18 @@
 
 <h1 align="center"><b>hyper-jans-theme</b></h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/lukejans/hyper-jans-theme.svg?style=social&label=Stars)](https://github.com/lukejans/hyper-jans-theme/stargazers) [![GitHub followers](https://img.shields.io/github/followers/lukejans.svg?style=social&label=Follow)](https://github.com/lukejans?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/lukejanss.svg?style=social&label=Tweet%20@lukejanss)](https://twitter.com/lukejanss)
+<a href="https://www.linkedin.com/in/luke-janssen-96592a245/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="https://twitter.com/lukejanss" target="_blank">
+<img alt="X (Twitter)" src="https://img.shields.io/badge/@lukejanss-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" />
+</a>
+<a href="https://github.com/lukejans" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/lukejans-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+<a href="https://hyper.is/" target="_blank">
+<img alt="Hyper.js" src="https://img.shields.io/badge/hyper.js-%2312100E.svg?&style=for-the-badge&logo=Hyper&logoColor=magenta" />
+</a>
 
 > Just a colorful dark theme built for [Vercel's](https://vercel.com/) terminal [Hyper.js](https://hyper.is/).
 
@@ -52,4 +63,4 @@ module.exports = {
 };
 ```
 
-Here I use [SF Mono](https://developer.apple.com/fonts/) for my font with [Fira Code](https://fonts.google.com/specimen/Fira+Code) as a fallback for powerline icons. I also added some additional padding to accommodate for the [hyperline plugin](https://github.com/Hyperline/hyperline) I use.
+> Here I use [SF Mono](https://developer.apple.com/fonts/) for my font with [Fira Code](https://fonts.google.com/specimen/Fira+Code) as a fallback for powerline icons. I also added some additional padding to accommodate for the [hyperline plugin](https://github.com/Hyperline/hyperline) I use.
