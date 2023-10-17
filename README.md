@@ -4,7 +4,7 @@ _displaying with [spaceship prompt](https://spaceship-prompt.sh/)_
 <h1 align="center"><b>Hyper Jans Theme</b></h1>
 
 <a href="https://www.npmjs.com/~lukejans" target="_blank">
-<img alt="npm (node package manager)" src="https://img.shields.io/badge/v0.1.0-%2312100E.svg?&style=for-the-badge&logo=NPM&logoColor=" />
+<img alt="npm (node package manager)" src="https://img.shields.io/badge/v1.0.0-%2312100E.svg?&style=for-the-badge&logo=NPM&logoColor=" />
 </a>
 <a href="https://github.com/lukejans" target="_blank">
 <img alt="GitHub" src="https://img.shields.io/badge/lukejans-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
