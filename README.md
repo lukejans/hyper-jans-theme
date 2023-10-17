@@ -1,4 +1,4 @@
-![Hyper jans theme screenshot](hyper-jans-themes.png)
+![Hyper jans theme screenshot](hyper-jans-theme.png)
 _displaying with [spaceship prompt](https://spaceship-prompt.sh/)_
 
 <h1 align="center"><b>Hyper Jans Theme</b></h1>
