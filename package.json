@@ -1,7 +1,7 @@
 {
   "name": "hyper-jans-theme",
   "displayName": "Hyper Jans Theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a colorful dark theme built for Vercel's terminal Hyper.js.",
   "main": "index.js",
   "publisher": "lukejans",
